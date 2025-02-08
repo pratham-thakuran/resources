@@ -1,0 +1,121 @@
+ID,Type,Name,Address,Latitude,Longitude,Contact,AdditionalInfo
+1,Hospital,"Max Super Specialty Hospital, Dehradun","Rajpur Road, Dehradun, Uttarakhand, India",30.3165,78.0322,0135-1010101,24/7 emergency services
+2,Hospital,"Manipal Hospitals, Dehradun","Clock Tower Area, Dehradun, Uttarakhand, India",30.317,78.033,0135-1010102,Multi-speciality hospital
+3,Hospital,"Doon Hospital, Dehradun","Clement Town, Dehradun, Uttarakhand, India",30.3175,78.0335,0135-1010103,General & emergency care
+4,Hospital,"Sharda Hospital, Dehradun","Malsi, Dehradun, Uttarakhand, India",30.318,78.034,0135-1010104,24/7 emergency services
+5,Hospital,"Vikas Hospital, Dehradun","Sahastradhara Road, Dehradun, Uttarakhand, India",30.3185,78.0345,0135-1010105,General & trauma care
+6,Hospital,"Apollo Hospital, Dehradun","Indira Nagar, Dehradun, Uttarakhand, India",30.319,78.035,0135-1010106,Advanced medical care
+7,Hospital,"SRS Hospital, Dehradun","Rajpur Road, Dehradun, Uttarakhand, India",30.3195,78.0355,0135-1010107,General hospital services
+8,Hospital,"Gandhi Hospital, Dehradun","Clock Tower Area, Dehradun, Uttarakhand, India",30.32,78.036,0135-1010108,Outpatient & emergency care
+9,Hospital,"Om Hospital, Dehradun","Clement Town, Dehradun, Uttarakhand, India",30.3205,78.0365,0135-1010109,Specialty care available
+10,Hospital,"City Hospital, Dehradun","Malsi, Dehradun, Uttarakhand, India",30.321,78.037,0135-1010110,24/7 emergency services
+11,Hospital,Dehradun Hospital 11,"Sector 1, Dehradun, Uttarakhand, India",30.3215,78.0375,0135-1010111,General medical services
+12,Hospital,Dehradun Hospital 12,"Sector 2, Dehradun, Uttarakhand, India",30.322,78.038,0135-1010112,General medical services
+13,Hospital,Dehradun Hospital 13,"Sector 3, Dehradun, Uttarakhand, India",30.3225,78.0385,0135-1010113,General medical services
+14,Hospital,Dehradun Hospital 14,"Sector 4, Dehradun, Uttarakhand, India",30.323,78.039,0135-1010114,General medical services
+15,Hospital,Dehradun Hospital 15,"Sector 5, Dehradun, Uttarakhand, India",30.3235,78.0395,0135-1010115,General medical services
+16,Hospital,Dehradun Hospital 16,"Sector 6, Dehradun, Uttarakhand, India",30.324,78.04,0135-1010116,General medical services
+17,Hospital,Dehradun Hospital 17,"Sector 7, Dehradun, Uttarakhand, India",30.3245,78.0405,0135-1010117,General medical services
+18,Hospital,Dehradun Hospital 18,"Sector 8, Dehradun, Uttarakhand, India",30.325,78.041,0135-1010118,General medical services
+19,Hospital,Dehradun Hospital 19,"Sector 9, Dehradun, Uttarakhand, India",30.3255,78.0415,0135-1010119,General medical services
+20,Hospital,Dehradun Hospital 20,"Sector 10, Dehradun, Uttarakhand, India",30.326,78.042,0135-1010120,General medical services
+21,Hospital,Dehradun Hospital 21,"Clock Tower Area, Dehradun, Uttarakhand, India",30.3265,78.0425,0135-1010121,Emergency care available
+22,Hospital,Dehradun Hospital 22,"Clock Tower Area, Dehradun, Uttarakhand, India",30.327,78.043,0135-1010122,Emergency care available
+23,Hospital,Dehradun Hospital 23,"Clement Town, Dehradun, Uttarakhand, India",30.3275,78.0435,0135-1010123,Emergency care available
+24,Hospital,Dehradun Hospital 24,"Clement Town, Dehradun, Uttarakhand, India",30.328,78.044,0135-1010124,Emergency care available
+25,Hospital,Dehradun Hospital 25,"Malsi, Dehradun, Uttarakhand, India",30.3285,78.0445,0135-1010125,General care and diagnostics
+26,Hospital,Dehradun Hospital 26,"Malsi, Dehradun, Uttarakhand, India",30.329,78.045,0135-1010126,General care and diagnostics
+27,Hospital,Dehradun Hospital 27,"Rajpur, Dehradun, Uttarakhand, India",30.3295,78.0455,0135-1010127,Specialized services
+28,Hospital,Dehradun Hospital 28,"Rajpur, Dehradun, Uttarakhand, India",30.33,78.046,0135-1010128,Specialized services
+29,Hospital,Dehradun Hospital 29,"Indira Nagar, Dehradun, Uttarakhand, India",30.3305,78.0465,0135-1010129,24/7 emergency and inpatient care
+30,Hospital,Dehradun Hospital 30,"Indira Nagar, Dehradun, Uttarakhand, India",30.331,78.047,0135-1010130,24/7 emergency and inpatient care
+31,Hospital,Dehradun Hospital 31,"Sahastradhara, Dehradun, Uttarakhand, India",30.3315,78.0475,0135-1010131,Comprehensive medical services
+32,Hospital,Dehradun Hospital 32,"Sahastradhara, Dehradun, Uttarakhand, India",30.332,78.048,0135-1010132,Comprehensive medical services
+33,Hospital,Dehradun Hospital 33,"Shivalik Nagar, Dehradun, Uttarakhand, India",30.3325,78.0485,0135-1010133,General & emergency services
+34,Hospital,Dehradun Hospital 34,"Shivalik Nagar, Dehradun, Uttarakhand, India",30.333,78.049,0135-1010134,General & emergency services
+35,Hospital,Dehradun Hospital 35,"Transport Nagar, Dehradun, Uttarakhand, India",30.3335,78.0495,0135-1010135,24/7 emergency services
+36,Hospital,Dehradun Hospital 36,"Transport Nagar, Dehradun, Uttarakhand, India",30.334,78.05,0135-1010136,24/7 emergency services
+37,Hospital,Dehradun Hospital 37,"Prithvi Chowk, Dehradun, Uttarakhand, India",30.3345,78.0505,0135-1010137,Multi-speciality care
+38,Hospital,Dehradun Hospital 38,"Prithvi Chowk, Dehradun, Uttarakhand, India",30.335,78.051,0135-1010138,Multi-speciality care
+39,Hospital,Dehradun Hospital 39,"Vikas Nagar, Dehradun, Uttarakhand, India",30.3355,78.0515,0135-1010139,Comprehensive healthcare services
+40,Hospital,Dehradun Hospital 40,"Vikas Nagar, Dehradun, Uttarakhand, India",30.336,78.052,0135-1010140,Comprehensive healthcare services
+41,Police Station,Dehradun City Police Headquarters,"Kotwali, Dehradun, Uttarakhand, India",30.3365,78.0525,0135-2010101,Main police headquarters
+42,Police Station,"Kotwali Police Station, Dehradun","Kotwali, Dehradun, Uttarakhand, India",30.337,78.053,0135-2010102,Primary police station
+43,Police Station,"Transport Nagar Police Station, Dehradun","Transport Nagar, Dehradun, Uttarakhand, India",30.3375,78.0535,0135-2010103,Handles traffic and local law enforcement
+44,Police Station,"Rajpur Police Station, Dehradun","Rajpur, Dehradun, Uttarakhand, India",30.338,78.054,0135-2010104,Local law enforcement
+45,Police Station,"Indira Nagar Police Station, Dehradun","Indira Nagar, Dehradun, Uttarakhand, India",30.3385,78.0545,0135-2010105,Local law enforcement
+46,Police Station,"Sahastradhara Police Station, Dehradun","Sahastradhara, Dehradun, Uttarakhand, India",30.339,78.055,0135-2010106,Local law enforcement
+47,Police Station,"Mussoorie Road Police Station, Dehradun","Mussoorie Road, Dehradun, Uttarakhand, India",30.3395,78.0555,0135-2010107,Local law enforcement
+48,Police Station,"Shivalik Nagar Police Station, Dehradun","Shivalik Nagar, Dehradun, Uttarakhand, India",30.34,78.056,0135-2010108,Local law enforcement
+49,Police Station,Dehradun Police Station 9,"Sector 1, Dehradun, Uttarakhand, India",30.3405,78.0565,0135-2010109,General policing
+50,Police Station,Dehradun Police Station 10,"Sector 2, Dehradun, Uttarakhand, India",30.341,78.057,0135-2010110,General policing
+51,Police Station,Dehradun Police Station 11,"Sector 3, Dehradun, Uttarakhand, India",30.3415,78.0575,0135-2010111,General policing
+52,Police Station,Dehradun Police Station 12,"Sector 4, Dehradun, Uttarakhand, India",30.342,78.058,0135-2010112,General policing
+53,Police Station,Dehradun Police Station 13,"Sector 5, Dehradun, Uttarakhand, India",30.3425,78.0585,0135-2010113,General policing
+54,Police Station,Dehradun Police Station 14,"Sector 6, Dehradun, Uttarakhand, India",30.343,78.059,0135-2010114,General policing
+55,Police Station,Dehradun Police Station 15,"Sector 7, Dehradun, Uttarakhand, India",30.3435,78.0595,0135-2010115,General policing
+56,Police Station,Dehradun Police Station 16,"Sector 8, Dehradun, Uttarakhand, India",30.344,78.06,0135-2010116,General policing
+57,Police Station,Dehradun Police Station 17,"Sector 9, Dehradun, Uttarakhand, India",30.3445,78.0605,0135-2010117,General policing
+58,Police Station,Dehradun Police Station 18,"Sector 10, Dehradun, Uttarakhand, India",30.345,78.061,0135-2010118,General policing
+59,Police Station,Dehradun Police Station 19,"Clock Tower, Dehradun, Uttarakhand, India",30.3455,78.0615,0135-2010119,Central area policing
+60,Police Station,Dehradun Police Station 20,"Clock Tower, Dehradun, Uttarakhand, India",30.346,78.062,0135-2010120,Central area policing
+61,Police Station,Dehradun Police Station 21,"Rajpur, Dehradun, Uttarakhand, India",30.3465,78.0625,0135-2010121,Local law enforcement
+62,Police Station,Dehradun Police Station 22,"Rajpur, Dehradun, Uttarakhand, India",30.347,78.063,0135-2010122,Local law enforcement
+63,Police Station,Dehradun Police Station 23,"Indira Nagar, Dehradun, Uttarakhand, India",30.3475,78.0635,0135-2010123,Local law enforcement
+64,Police Station,Dehradun Police Station 24,"Indira Nagar, Dehradun, Uttarakhand, India",30.348,78.064,0135-2010124,Local law enforcement
+65,Police Station,Dehradun Police Station 25,"Sahastradhara, Dehradun, Uttarakhand, India",30.3485,78.0645,0135-2010125,Local law enforcement
+66,Police Station,Dehradun Police Station 26,"Sahastradhara, Dehradun, Uttarakhand, India",30.349,78.065,0135-2010126,Local law enforcement
+67,Police Station,Dehradun Police Station 27,"Shivalik Nagar, Dehradun, Uttarakhand, India",30.3495,78.0655,0135-2010127,Local law enforcement
+68,Police Station,Dehradun Police Station 28,"Shivalik Nagar, Dehradun, Uttarakhand, India",30.35,78.066,0135-2010128,Local law enforcement
+69,Police Station,Dehradun Police Station 29,"Transport Nagar, Dehradun, Uttarakhand, India",30.3505,78.0665,0135-2010129,Local law enforcement
+70,Police Station,Dehradun Police Station 30,"Transport Nagar, Dehradun, Uttarakhand, India",30.351,78.067,0135-2010130,Local law enforcement
+71,Food Bank,Dehradun Municipal Food Bank,"Clock Tower Area, Dehradun, Uttarakhand, India",30.3515,78.0675,0135-3010101,Provides emergency food supplies
+72,Food Bank,"Clock Tower Food Bank, Dehradun","Clock Tower, Dehradun, Uttarakhand, India",30.352,78.068,0135-3010102,Provides emergency food supplies
+73,Food Bank,"Rajpur Food Bank, Dehradun","Rajpur, Dehradun, Uttarakhand, India",30.3525,78.0685,0135-3010103,Provides emergency food supplies
+74,Food Bank,"Indira Nagar Food Bank, Dehradun","Indira Nagar, Dehradun, Uttarakhand, India",30.353,78.069,0135-3010104,Provides emergency food supplies
+75,Food Bank,"Sahastradhara Food Bank, Dehradun","Sahastradhara, Dehradun, Uttarakhand, India",30.3535,78.0695,0135-3010105,Provides emergency food supplies
+76,Food Bank,"Shivalik Food Bank, Dehradun","Shivalik Nagar, Dehradun, Uttarakhand, India",30.354,78.07,0135-3010106,Provides emergency food supplies
+77,Food Bank,"Transport Nagar Food Bank, Dehradun","Transport Nagar, Dehradun, Uttarakhand, India",30.3545,78.0705,0135-3010107,Provides emergency food supplies
+78,Food Bank,"Malsi Food Bank, Dehradun","Malsi, Dehradun, Uttarakhand, India",30.355,78.071,0135-3010108,Provides emergency food supplies
+79,Food Bank,"Clement Town Food Bank, Dehradun","Clement Town, Dehradun, Uttarakhand, India",30.3555,78.0715,0135-3010109,Provides emergency food supplies
+80,Food Bank,Dehradun Community Food Bank,"Prithvi Chowk, Dehradun, Uttarakhand, India",30.356,78.072,0135-3010110,Provides emergency food supplies
+81,Food Bank,Dehradun Food Bank 11,"Sector 1, Dehradun, Uttarakhand, India",30.3565,78.0725,0135-3010111,Provides emergency food supplies
+82,Food Bank,Dehradun Food Bank 12,"Sector 2, Dehradun, Uttarakhand, India",30.357,78.073,0135-3010112,Provides emergency food supplies
+83,Food Bank,Dehradun Food Bank 13,"Sector 3, Dehradun, Uttarakhand, India",30.3575,78.0735,0135-3010113,Provides emergency food supplies
+84,Food Bank,Dehradun Food Bank 14,"Sector 4, Dehradun, Uttarakhand, India",30.358,78.074,0135-3010114,Provides emergency food supplies
+85,Food Bank,Dehradun Food Bank 15,"Sector 5, Dehradun, Uttarakhand, India",30.3585,78.0745,0135-3010115,Provides emergency food supplies
+86,Food Bank,Dehradun Food Bank 16,"Sector 6, Dehradun, Uttarakhand, India",30.359,78.075,0135-3010116,Provides emergency food supplies
+87,Food Bank,Dehradun Food Bank 17,"Sector 7, Dehradun, Uttarakhand, India",30.3595,78.0755,0135-3010117,Provides emergency food supplies
+88,Food Bank,Dehradun Food Bank 18,"Sector 8, Dehradun, Uttarakhand, India",30.36,78.076,0135-3010118,Provides emergency food supplies
+89,Food Bank,Dehradun Food Bank 19,"Sector 9, Dehradun, Uttarakhand, India",30.3605,78.0765,0135-3010119,Provides emergency food supplies
+90,Food Bank,Dehradun Food Bank 20,"Sector 10, Dehradun, Uttarakhand, India",30.361,78.077,0135-3010120,Provides emergency food supplies
+91,Fire Station,Dehradun Fire Station - Clock Tower,"Clock Tower, Dehradun, Uttarakhand, India",30.3615,78.0775,0135-4010101,Primary fire emergency response
+92,Fire Station,Dehradun Fire Station - Rajpur,"Rajpur, Dehradun, Uttarakhand, India",30.362,78.078,0135-4010102,Primary fire emergency response
+93,Fire Station,Dehradun Fire Station - Sahastradhara,"Sahastradhara, Dehradun, Uttarakhand, India",30.3625,78.0785,0135-4010103,Primary fire emergency response
+94,Fire Station,Dehradun Fire Station - Indira Nagar,"Indira Nagar, Dehradun, Uttarakhand, India",30.363,78.079,0135-4010104,Primary fire emergency response
+95,Fire Station,Dehradun Fire Station - Shivalik Nagar,"Shivalik Nagar, Dehradun, Uttarakhand, India",30.3635,78.0795,0135-4010105,Primary fire emergency response
+96,Fire Station,Dehradun Fire Station - Transport Nagar,"Transport Nagar, Dehradun, Uttarakhand, India",30.364,78.08,0135-4010106,Primary fire emergency response
+97,Fire Station,Dehradun Fire Station - Malsi,"Malsi, Dehradun, Uttarakhand, India",30.3645,78.0805,0135-4010107,Primary fire emergency response
+98,Fire Station,Dehradun Fire Station - Clement Town,"Clement Town, Dehradun, Uttarakhand, India",30.365,78.081,0135-4010108,Primary fire emergency response
+99,Fire Station,Dehradun Fire Station - Prithvi Chowk,"Prithvi Chowk, Dehradun, Uttarakhand, India",30.3655,78.0815,0135-4010109,Primary fire emergency response
+100,Fire Station,Dehradun Fire Station - Vikas Nagar,"Vikas Nagar, Dehradun, Uttarakhand, India",30.366,78.082,0135-4010110,Primary fire emergency response
+101,NGO,"Uttarakhand Seva Sansthan, Dehradun","Clement Town, Dehradun, Uttarakhand, India",30.3665,78.0825,0135-5010101,Community support and disaster relief
+102,NGO,Dehradun Youth Welfare Society,"Indira Nagar, Dehradun, Uttarakhand, India",30.367,78.083,0135-5010102,Youth and community initiatives
+103,NGO,Dehradun Social Service Society,"Malsi, Dehradun, Uttarakhand, India",30.3675,78.0835,0135-5010103,Social welfare programs
+104,NGO,"Citizen Welfare Foundation, Dehradun","Rajpur, Dehradun, Uttarakhand, India",30.368,78.084,0135-5010104,Community development and support
+105,NGO,Dehradun NGO Forum,"Clock Tower Area, Dehradun, Uttarakhand, India",30.3685,78.0845,0135-5010105,NGO coordination and support
+106,NGO,Dehradun Women’s Collective,"Shivalik Nagar, Dehradun, Uttarakhand, India",30.369,78.085,0135-5010106,Women empowerment and welfare
+107,NGO,Dehradun Child Support Initiative,"Prithvi Chowk, Dehradun, Uttarakhand, India",30.3695,78.0855,0135-5010107,Child welfare and education
+108,NGO,Dehradun Environment Action,"Sahastradhara, Dehradun, Uttarakhand, India",30.37,78.086,0135-5010108,Environmental conservation
+109,NGO,Dehradun Rural Support Group,"Transport Nagar, Dehradun, Uttarakhand, India",30.3705,78.0865,0135-5010109,Rural development projects
+110,NGO,Dehradun Community Aid Network,"Vikas Nagar, Dehradun, Uttarakhand, India",30.371,78.087,0135-5010110,Community aid and disaster relief
+111,Blood Bank,"IMA Blood Bank, Dehradun","Clock Tower, Dehradun, Uttarakhand, India",30.3715,78.0875,0135-6010101,Provides blood donation and transfusion services
+112,Blood Bank,Dehradun Red Cross Blood Bank,"Rajpur, Dehradun, Uttarakhand, India",30.372,78.088,0135-6010102,Provides blood donation and transfusion services
+113,Blood Bank,"City Blood Bank, Dehradun","Indira Nagar, Dehradun, Uttarakhand, India",30.3725,78.0885,0135-6010103,Provides blood donation and transfusion services
+114,Blood Bank,"Central Blood Bank, Dehradun","Sahastradhara, Dehradun, Uttarakhand, India",30.373,78.089,0135-6010104,Provides blood donation and transfusion services
+115,Blood Bank,Dehradun Community Blood Bank,"Clement Town, Dehradun, Uttarakhand, India",30.3735,78.0895,0135-6010105,Provides blood donation and transfusion services
+116,Blood Bank,Dehradun Volunteer Blood Bank,"Malsi, Dehradun, Uttarakhand, India",30.374,78.09,0135-6010106,Provides blood donation and transfusion services
+117,Blood Bank,Dehradun LifeLine Blood Bank,"Transport Nagar, Dehradun, Uttarakhand, India",30.3745,78.0905,0135-6010107,Provides blood donation and transfusion services
+118,Blood Bank,Dehradun Safe Blood Bank,"Shivalik Nagar, Dehradun, Uttarakhand, India",30.375,78.091,0135-6010108,Provides blood donation and transfusion services
+119,Blood Bank,Dehradun Trust Blood Bank,"Prithvi Chowk, Dehradun, Uttarakhand, India",30.3755,78.0915,0135-6010109,Provides blood donation and transfusion services
+120,Blood Bank,Dehradun Central Blood Bank,"Vikas Nagar, Dehradun, Uttarakhand, India",30.376,78.092,0135-6010110,Provides blood donation and transfusion services
